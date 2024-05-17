@@ -1,0 +1,11 @@
+prefix=/Users/debarghyachakravarty/Documents/PROGRAMMING/Resume ATS Tracking LLM Project/venv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/debarghyachakravarty/Documents/PROGRAMMING/Resume ATS Tracking LLM Project/venv/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.4
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}

@@ -1,0 +1,12 @@
+prefix=/Users/debarghyachakravarty/Documents/PROGRAMMING/Resume ATS Tracking LLM Project/venv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+enginesdir=${libdir}/engines-1.1
+
+Name: OpenSSL-libcrypto
+Description: OpenSSL cryptography library
+Version: 1.1.1w
+Libs: -L${libdir} -lcrypto
+Libs.private:  
+Cflags: -I${includedir}

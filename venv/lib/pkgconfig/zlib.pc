@@ -1,0 +1,13 @@
+prefix=/Users/debarghyachakravarty/Documents/PROGRAMMING/Resume ATS Tracking LLM Project/venv
+exec_prefix=/Users/debarghyachakravarty/Documents/PROGRAMMING/Resume ATS Tracking LLM Project/venv
+libdir=/Users/debarghyachakravarty/Documents/PROGRAMMING/Resume ATS Tracking LLM Project/venv/lib
+sharedlibdir=/Users/debarghyachakravarty/Documents/PROGRAMMING/Resume ATS Tracking LLM Project/venv/lib
+includedir=/Users/debarghyachakravarty/Documents/PROGRAMMING/Resume ATS Tracking LLM Project/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
