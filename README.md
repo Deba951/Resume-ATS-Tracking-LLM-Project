@@ -1,6 +1,8 @@
 # Smart ATS Resume Checker
 Smart ATS is a Streamlit web application designed to help job seekers improve their resumes based on specific job descriptions. It leverages Google's Generative AI to act like an experienced Application Tracking System (ATS) and provide detailed feedback on resume matching, missing keywords, and profile summaries.
 
+<img width="1296" alt="WorkFlow" src="https://github.com/Deba951/Resume-ATS-Tracking-LLM-Project/assets/83878346/d91a4ebc-14a0-4fec-a278-7b478e2164a6">
+
 ## Table of Contents
 - [About the App](#about-the-app)
 - [Prerequisites](#prerequisites)
