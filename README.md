@@ -19,7 +19,7 @@ The Smart ATS app takes a job description and a resume as inputs, evaluates the 
 Before running the app, ensure you have the following installed:
 - Python 3.7 or later
 - pip (Python package installer)
-- Google API key for Generative AI
+- Google API key for Generative AI (makersuite)
 
 ## Installation
 1. Clone the repository:
